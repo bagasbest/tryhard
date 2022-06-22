@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745415968476",
+    "project_id": "try-hard-5541e",
+    "storage_bucket": "try-hard-5541e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745415968476:android:e1e85c2fa95b1539089619",
+        "android_client_info": {
+          "package_name": "com.example.tryhard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745415968476-igmvjs3b3mipv8dp887au7m66m987bip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV4dN25D8ec13m61xRx6_HZ7WuYj9UFjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745415968476-igmvjs3b3mipv8dp887au7m66m987bip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
